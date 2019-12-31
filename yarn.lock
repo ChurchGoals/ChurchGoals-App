@@ -2,6 +2,24 @@
 # yarn lockfile v1
 
 
+"@alchemyalcove/color-calculator@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@alchemyalcove/color-calculator/-/color-calculator-1.0.3.tgz#02df0523d5a7059c580fbe732f29e79b08064b46"
+  integrity sha512-IVAJguH72G5ywEvLahAae1nMnA2JVVXgOz9cYtXp7FHh3TCQkvU/Dr7NrURtXyvctmOtnyBM58D8Xg3J0oPUUA==
+  dependencies:
+    "@alchemyalcove/hsl-to-rgb" "1.0.2"
+    "@alchemyalcove/rgb-to-hsl" "1.0.5"
+
+"@alchemyalcove/hsl-to-rgb@1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@alchemyalcove/hsl-to-rgb/-/hsl-to-rgb-1.0.2.tgz#494ed14962648c0de1ed17a507f469c6b8b89362"
+  integrity sha512-t27fNffMEJhx/Qd+J+bpKD3aeiht8OKfBOQRIgNZ2QpRw5ndm9hrib/PqWAP8D6uBmEbqfP/28T7L9yM5/ZK/g==
+
+"@alchemyalcove/rgb-to-hsl@1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@alchemyalcove/rgb-to-hsl/-/rgb-to-hsl-1.0.5.tgz#d47c112671bb1e04e3e72b251da34eacd90122cd"
+  integrity sha512-Gkc8aCG8Y6Bc6zMWmhyGWnTObtuDcvB3UX/ntZ51lEP+DhzxrATnWlUUEnYcbPjicGvHr6yhOk24Kj6iV1WGKQ==
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.5.5":
   version "7.5.5"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.5.5.tgz#bc0782f6d69f7b7d49531219699b988f669a8f9d"
