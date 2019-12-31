@@ -20,6 +20,22 @@
 		849B8B1098F8E75AE1F1470D /* libPods-ChurchGoals-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ACCB7B5D1AF102C58FA48C03 /* libPods-ChurchGoals-tvOSTests.a */; };
 		96D47058A1E051C7DFC587E6 /* libPods-ChurchGoals-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C89617D77A92C3D573B053DD /* libPods-ChurchGoals-tvOS.a */; };
 		D5D0766C5279990708FD1DDD /* libPods-ChurchGoalsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BBCB6DA25036347E3E9DD419 /* libPods-ChurchGoalsTests.a */; };
+		264FAD4C88CC427F8DB48979 /* InriaSerif-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5DB68F240E0549ADB6F923D1 /* InriaSerif-Bold.ttf */; };
+		BED64920DC554001977E9EAF /* InriaSerif-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1DD726E3957047E7A93BF1AF /* InriaSerif-BoldItalic.ttf */; };
+		C1BFF815327042DDB3801120 /* InriaSerif-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9C1AEE2B438740D5A5B0C66F /* InriaSerif-Italic.ttf */; };
+		C6A063851DAD451897B59E2A /* InriaSerif-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7DF3DB7BBD714FE08F45942F /* InriaSerif-Light.ttf */; };
+		E2E25A33BC37426FA4148F02 /* InriaSerif-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 284522A18D29434AB06FFE55 /* InriaSerif-LightItalic.ttf */; };
+		FA14E92D81004AC396C77A12 /* InriaSerif-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8CC04F9173C34574B8E367C5 /* InriaSerif-Regular.ttf */; };
+		995673CFBD8B4EBC83477346 /* KulimPark-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38CA516C0E5F4AA29AA25FFC /* KulimPark-Bold.ttf */; };
+		45FB8C4A1220471D8421470B /* KulimPark-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27B32E99864F41F3AB0770D0 /* KulimPark-BoldItalic.ttf */; };
+		C3D91F0F7A304AE283C3141E /* KulimPark-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0DBF19560C224FADA35BEBCC /* KulimPark-ExtraLight.ttf */; };
+		D02CA51C14B843B5A9923A93 /* KulimPark-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01DCE85BD106472CB05BF31C /* KulimPark-ExtraLightItalic.ttf */; };
+		702E1009481C45969596836C /* KulimPark-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EA0939494E8E49D5AAC4445C /* KulimPark-Italic.ttf */; };
+		038400BBEA2C49D495293389 /* KulimPark-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7117B9E165AD4D01AD23E972 /* KulimPark-Light.ttf */; };
+		61D8A02C6475419DA57287E5 /* KulimPark-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7692903E0FD44CBD930F8EA3 /* KulimPark-LightItalic.ttf */; };
+		9428982E291C4279A379093C /* KulimPark-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3B71B0CA68094CAA8605B4D3 /* KulimPark-Regular.ttf */; };
+		FA99F66A874947D99D02476A /* KulimPark-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1251115D859F44B5B0B3849C /* KulimPark-SemiBold.ttf */; };
+		5E00269853224A408C84D35C /* KulimPark-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A0078F8A25584AA192E0ECD2 /* KulimPark-SemiBoldItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +83,22 @@
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		FD78AF29325675799DF1F137 /* Pods-ChurchGoalsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChurchGoalsTests.debug.xcconfig"; path = "Target Support Files/Pods-ChurchGoalsTests/Pods-ChurchGoalsTests.debug.xcconfig"; sourceTree = "<group>"; };
+		5DB68F240E0549ADB6F923D1 /* InriaSerif-Bold.ttf */ = {isa = PBXFileReference; name = "InriaSerif-Bold.ttf"; path = "../assets/fonts/InriaSerif-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1DD726E3957047E7A93BF1AF /* InriaSerif-BoldItalic.ttf */ = {isa = PBXFileReference; name = "InriaSerif-BoldItalic.ttf"; path = "../assets/fonts/InriaSerif-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9C1AEE2B438740D5A5B0C66F /* InriaSerif-Italic.ttf */ = {isa = PBXFileReference; name = "InriaSerif-Italic.ttf"; path = "../assets/fonts/InriaSerif-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7DF3DB7BBD714FE08F45942F /* InriaSerif-Light.ttf */ = {isa = PBXFileReference; name = "InriaSerif-Light.ttf"; path = "../assets/fonts/InriaSerif-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		284522A18D29434AB06FFE55 /* InriaSerif-LightItalic.ttf */ = {isa = PBXFileReference; name = "InriaSerif-LightItalic.ttf"; path = "../assets/fonts/InriaSerif-LightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8CC04F9173C34574B8E367C5 /* InriaSerif-Regular.ttf */ = {isa = PBXFileReference; name = "InriaSerif-Regular.ttf"; path = "../assets/fonts/InriaSerif-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		38CA516C0E5F4AA29AA25FFC /* KulimPark-Bold.ttf */ = {isa = PBXFileReference; name = "KulimPark-Bold.ttf"; path = "../assets/fonts/KulimPark-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		27B32E99864F41F3AB0770D0 /* KulimPark-BoldItalic.ttf */ = {isa = PBXFileReference; name = "KulimPark-BoldItalic.ttf"; path = "../assets/fonts/KulimPark-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0DBF19560C224FADA35BEBCC /* KulimPark-ExtraLight.ttf */ = {isa = PBXFileReference; name = "KulimPark-ExtraLight.ttf"; path = "../assets/fonts/KulimPark-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		01DCE85BD106472CB05BF31C /* KulimPark-ExtraLightItalic.ttf */ = {isa = PBXFileReference; name = "KulimPark-ExtraLightItalic.ttf"; path = "../assets/fonts/KulimPark-ExtraLightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EA0939494E8E49D5AAC4445C /* KulimPark-Italic.ttf */ = {isa = PBXFileReference; name = "KulimPark-Italic.ttf"; path = "../assets/fonts/KulimPark-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7117B9E165AD4D01AD23E972 /* KulimPark-Light.ttf */ = {isa = PBXFileReference; name = "KulimPark-Light.ttf"; path = "../assets/fonts/KulimPark-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7692903E0FD44CBD930F8EA3 /* KulimPark-LightItalic.ttf */ = {isa = PBXFileReference; name = "KulimPark-LightItalic.ttf"; path = "../assets/fonts/KulimPark-LightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3B71B0CA68094CAA8605B4D3 /* KulimPark-Regular.ttf */ = {isa = PBXFileReference; name = "KulimPark-Regular.ttf"; path = "../assets/fonts/KulimPark-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1251115D859F44B5B0B3849C /* KulimPark-SemiBold.ttf */ = {isa = PBXFileReference; name = "KulimPark-SemiBold.ttf"; path = "../assets/fonts/KulimPark-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A0078F8A25584AA192E0ECD2 /* KulimPark-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "KulimPark-SemiBoldItalic.ttf"; path = "../assets/fonts/KulimPark-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,6 +197,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				9B62EA85E7A456685294C2FE /* Pods */,
+				4026F078FA5C4DCE935608CE /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -197,6 +230,30 @@
 			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		4026F078FA5C4DCE935608CE /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				5DB68F240E0549ADB6F923D1 /* InriaSerif-Bold.ttf */,
+				1DD726E3957047E7A93BF1AF /* InriaSerif-BoldItalic.ttf */,
+				9C1AEE2B438740D5A5B0C66F /* InriaSerif-Italic.ttf */,
+				7DF3DB7BBD714FE08F45942F /* InriaSerif-Light.ttf */,
+				284522A18D29434AB06FFE55 /* InriaSerif-LightItalic.ttf */,
+				8CC04F9173C34574B8E367C5 /* InriaSerif-Regular.ttf */,
+				38CA516C0E5F4AA29AA25FFC /* KulimPark-Bold.ttf */,
+				27B32E99864F41F3AB0770D0 /* KulimPark-BoldItalic.ttf */,
+				0DBF19560C224FADA35BEBCC /* KulimPark-ExtraLight.ttf */,
+				01DCE85BD106472CB05BF31C /* KulimPark-ExtraLightItalic.ttf */,
+				EA0939494E8E49D5AAC4445C /* KulimPark-Italic.ttf */,
+				7117B9E165AD4D01AD23E972 /* KulimPark-Light.ttf */,
+				7692903E0FD44CBD930F8EA3 /* KulimPark-LightItalic.ttf */,
+				3B71B0CA68094CAA8605B4D3 /* KulimPark-Regular.ttf */,
+				1251115D859F44B5B0B3849C /* KulimPark-SemiBold.ttf */,
+				A0078F8A25584AA192E0ECD2 /* KulimPark-SemiBoldItalic.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -285,7 +342,7 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0940;
+				LastUpgradeCheck = 940;
 				ORGANIZATIONNAME = Facebook;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
@@ -338,6 +395,22 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				264FAD4C88CC427F8DB48979 /* InriaSerif-Bold.ttf in Resources */,
+				BED64920DC554001977E9EAF /* InriaSerif-BoldItalic.ttf in Resources */,
+				C1BFF815327042DDB3801120 /* InriaSerif-Italic.ttf in Resources */,
+				C6A063851DAD451897B59E2A /* InriaSerif-Light.ttf in Resources */,
+				E2E25A33BC37426FA4148F02 /* InriaSerif-LightItalic.ttf in Resources */,
+				FA14E92D81004AC396C77A12 /* InriaSerif-Regular.ttf in Resources */,
+				995673CFBD8B4EBC83477346 /* KulimPark-Bold.ttf in Resources */,
+				45FB8C4A1220471D8421470B /* KulimPark-BoldItalic.ttf in Resources */,
+				C3D91F0F7A304AE283C3141E /* KulimPark-ExtraLight.ttf in Resources */,
+				D02CA51C14B843B5A9923A93 /* KulimPark-ExtraLightItalic.ttf in Resources */,
+				702E1009481C45969596836C /* KulimPark-Italic.ttf in Resources */,
+				038400BBEA2C49D495293389 /* KulimPark-Light.ttf in Resources */,
+				61D8A02C6475419DA57287E5 /* KulimPark-LightItalic.ttf in Resources */,
+				9428982E291C4279A379093C /* KulimPark-Regular.ttf in Resources */,
+				FA99F66A874947D99D02476A /* KulimPark-SemiBold.ttf in Resources */,
+				5E00269853224A408C84D35C /* KulimPark-SemiBoldItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
