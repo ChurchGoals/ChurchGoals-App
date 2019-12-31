@@ -18,5 +18,6 @@ export default StyleSheet.create({
 
   text: {
     color: colors.white,
+    fontFamily: 'KulimPark-Bold',
   },
 });

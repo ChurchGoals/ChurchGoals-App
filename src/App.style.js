@@ -29,7 +29,7 @@ export default StyleSheet.create({
   title: {
     color: new Color(colors.black).darken(10).toHex(),
     fontSize: 100,
-    fontFamily: 'KulimPark-Light',
+    fontFamily: 'KulimPark-Regular',
     height: 100,
     textAlign: 'center',
   },
